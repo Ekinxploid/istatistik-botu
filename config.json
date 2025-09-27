@@ -1,0 +1,12 @@
+{
+  "token": "",
+  "prefix": ".",
+  "ownerID": "",
+  "databasePath": "./database.sqlite",
+  "xpPerMessage": 1,
+  "xpPerVoiceMinute": 2,
+  "levelUpMultiplier": 1.5,
+  "weeklyReportChannel": "",
+  "levelCardChannel": "",
+  "levelCardFrequency": 50
+}
